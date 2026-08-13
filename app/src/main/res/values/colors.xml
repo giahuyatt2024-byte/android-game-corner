@@ -1,0 +1,8 @@
+<resources>
+    <color name="rog_black">#07080D</color>
+    <color name="rog_panel">#11131D</color>
+    <color name="rog_red">#FF2638</color>
+    <color name="rog_orange">#FF7A1A</color>
+    <color name="rog_text">#F5F7FF</color>
+    <color name="rog_muted">#8A90A3</color>
+</resources>

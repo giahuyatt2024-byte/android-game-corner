@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GAME CORNER</string>
+    <string name="overlay_service_description">GAME CORNER floating performance HUD</string>
+</resources>
